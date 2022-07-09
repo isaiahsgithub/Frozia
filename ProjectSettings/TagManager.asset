@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerTag
+  - EnemiesTag
+  - VisualizationAttackTag
+  - inventoryTag
+  - itemTag
+  - itemInInventoryTag
+  - isEquippedTag
+  - HUDTag
+  - sliderTag
+  - atkStatTag
+  - defStatTag
+  - mainInventory
+  - slotsTag
+  - HPTextTag
+  - EXPTextTag
+  - expSliderTag
+  - actualLevelTag
+  - VOATag
+  - npcTag
+  - zombieSoundTag
+  - zombieDeathTag
+  - gameOverButtonTag
+  - soundsTag
+  - gameOverText
+  - blackBackgroundTag
+  - informativeTag
+  - informativeTextTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - DialogBox
+  - Enemies
+  - VisulizationAttackLayer
+  - npcLayer
+  - playerLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
